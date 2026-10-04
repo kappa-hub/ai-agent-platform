@@ -1,0 +1,16 @@
+# Required Python packages for the project
+
+# Ollama
+ollama
+
+# Chroma
+chromadb
+
+# LangGraph
+langgraph
+
+# Radon
+radon
+
+# Flake8
+flake8
